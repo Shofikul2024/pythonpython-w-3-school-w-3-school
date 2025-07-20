@@ -8,6 +8,21 @@
 
 
 
+# thisDict={
+  
+#   'brand':'Ford',
+#   'model':'Mustang',
+#   'year':'19644',
+  
+  
+# }
+# print(thisDict)
+
+
+
+
+
+
 thisDict={
   
   'brand':'Ford',
@@ -16,4 +31,9 @@ thisDict={
   
   
 }
-print(thisDict)
+print(thisDict['brand'])
+
+
+
+
+
